@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgctxt "Context1"
+msgid "Cancel"
+msgstr "Отмена"
+
+msgctxt "Context1.Subcontext1.Subcontext2"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "Context1.Subcontext1.Subcontext2"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "Context2.Subcontext3"
+msgid "Test"
+msgstr "Тест"
